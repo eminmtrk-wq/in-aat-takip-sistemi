@@ -1,3 +1,5 @@
+"""3.sınıfım alttan alıyorum dersi bilgilendirmek için yazdım bu kismı"""
+
 # İnşaat Takip Sistemi
 
 **Ders:** İnternet Programcılığı I (PHP)
@@ -142,3 +144,7 @@ insaat-takip/
 - **Kullanım amacı:** Proje iskeleti, PHP fonksiyonları, SQL sorguları ve tablo tasarımı, arayüz tasarımı ve CSS, kod açıklamaları ve README taslağı.
 - **Örnek istemler:** "Ödev belgesindeki zorunlu özelliklere göre PHP ile bir inşaat takip sistemi yapar mısın?", "Kayıtlar yerel veritabanında kalsın; tarih, gecikme uyarısı ve arama ekle.", "Bütçe takibi, inşaat özeti, şantiye defteri, fotoğraf, kullanıcı girişi, rapor, sıralama ve yaklaşan işler özelliklerini ekle."
 - **Kendi katkım:** _[Burayı kendiniz doldurun: örneğin kodu satır satır inceleyip anladığınız kısımlar, değiştirdiğiniz kategoriler/örnek kayıtlar, eklediğiniz alanlar, düzelttiğiniz hatalar, yaptığınız testler.]_
+
+
+
+
